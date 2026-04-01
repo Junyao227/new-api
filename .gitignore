@@ -29,3 +29,8 @@ data/
 .gomodcache/
 .gocache-temp
 .gopath
+
+# Backup and temporary files
+*~
+*.bak
+*.tmp
