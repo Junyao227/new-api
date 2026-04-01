@@ -89,7 +89,7 @@ import {
   SiGitlab,
   SiGoogle,
   SiKeycloak,
-  SiLinkedin,
+  // SiLinkedin, // 注释：react-icons 中不存在此图标
   SiNextcloud,
   SiNotion,
   SiOkta,
@@ -504,7 +504,7 @@ const oauthProviderIconMap = {
   google: SiGoogle,
   discord: SiDiscord,
   facebook: SiFacebook,
-  linkedin: SiLinkedin,
+  // linkedin: SiLinkedin, // 注释：react-icons 中不存在此图标
   x: SiX,
   twitter: SiX,
   slack: SiSlack,
